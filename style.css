@@ -46,7 +46,7 @@ section {
 
 /* Home Banner */
 #home {
-  background: url('assets/profile_2.png') center/cover no-repeat;
+  background: url('profile_2.png') center/cover no-repeat;
   height: 110vh;
   display: flex;
   align-items: center;
@@ -93,7 +93,7 @@ section {
 /* Experience Section */
 #experience {
   height: 50vh;
-  background: url('assets/background\ .png') center/cover no-repeat;
+  background: url('background\ .png') center/cover no-repeat;
   background-color: #f9f9f900;
   color: white;
 }
